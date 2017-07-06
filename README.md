@@ -104,4 +104,5 @@ function createTicket() payable notOwner {
   Some other code we can touch on are the contract's different events and function modifiers. Solidity allows for the developer to write events that can be listened to by Web3.js, the official Ethereum JavaScript API. However, in this project truffle-contract returns the events as well inside of the promise chain. Secondly, Solidity allows for function modifiers. Think of these as an if statement for the entire function. Depending on the use case, the developer has the ability to restrict or permit access to particular functions to users. 
 
 ## Conclusion
-The Ethereum blockchain has an extremely promising future due to it ability to write use smart contracts to drive transactions and data across the blockchain. This dapp is prime example of how easy it is to integrate blockchain into a common use case.
+The Ethereum blockchain has an extremely promising future due to it ability to write use smart contracts to drive transactions and data across the blockchain. This dapp is prime example of how easy it is to integrate blockchain into a common use case. If you would like to jump into the Ethereum blockchain and smart contact develop here is a link to a quick primer guide I wrote that'll be able to get you started!
+`https://github.com/myamout/Ethereum_Primer`
